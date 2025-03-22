@@ -1,5 +1,5 @@
 # Afariat
-![Afariat Logo](./com.skonsoft.afariat.png)
+<img src="./afariat-logo.png" alt="Afariat Logo" width="64" />
 
 Afariat Tayara - Free Classified Ads in Tunisia
 
